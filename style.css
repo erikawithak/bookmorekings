@@ -19,6 +19,7 @@ html {
 
 body {
   background-color: #330065;
+   display: flex;
 }
 
 .gold {
@@ -29,7 +30,10 @@ body {
   color: #fdcf21;
 }
 
-
+.home {
+   align-items: center;
+   justify-content: center;
+}
 
 /*
  * Remove text-shadow in selection highlight:
