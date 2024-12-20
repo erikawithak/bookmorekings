@@ -20,6 +20,8 @@ html {
 body {
   background-color: #330065;
    display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
 .gold {
@@ -31,8 +33,7 @@ body {
 }
 
 .home {
-   align-items: center;
-   justify-content: center;
+   
 }
 
 /*
