@@ -48,15 +48,16 @@ body {
    font-family: sans-serif;
    text-transform: uppcase;
    font-size: 30px;
-   position: absolute;
+   font-weight: bold;
+/*    position: absolute;
    left: 0;
    right: 0;
-   bottom: 50px;
+   bottom: 50px; */
 }
 
-.home {
+/* .home {
    position: relative;
-}
+} */
 
 /*
  * Remove text-shadow in selection highlight:
