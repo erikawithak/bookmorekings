@@ -43,16 +43,18 @@ body {
    justify-content: center;
    padding: 20px 40px;
    color: #330065;
-   border: 1px solid #fdcf21;
+   border: 2px solid #fdcf21;
    background-color: #fff;
    font-family: sans-serif;
    text-transform: uppcase;
    font-size: 30px;
    font-weight: bold;
-/*    position: absolute;
-   left: 0;
-   right: 0;
-   bottom: 50px; */
+   text-decoration: none;
+   border-radius: 10px;
+}
+
+.button:hover {
+   color: #fdcf21;
 }
 
 /* .home {
