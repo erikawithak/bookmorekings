@@ -34,7 +34,15 @@ body {
   color: #fdcf21;
 }
 
-.home {
+.button {
+   width: 100%;
+   max-width: 400px;
+   margin: 0 auto;
+   display: flex;
+   padding: 20px 40px;
+   color: #330065;
+   border: 1px solid #fdcf21;
+   background-color: #fff;
    
 }
 
