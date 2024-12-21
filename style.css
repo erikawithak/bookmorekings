@@ -59,6 +59,11 @@ body {
    color: #fdcf21;
 }
 
+img {
+   width: 100%;
+   max-width: 100%;
+}
+
 /* .home {
    position: relative;
 } */
